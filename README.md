@@ -7,8 +7,8 @@ An archey clone for Antergos.
               yssssssy
             oshhhhhhhhood
            yhhhhhhhhhhhhso
-         ohhhhhhhhhhhhhhhh+h         User: plugaru
-        yhhhhhhhho/hshhhhhhso        Hostname: ProBook
+         ohhhhhhhhhhhhhhhh+h          User: plugaru
+        yhhhhhhhho/hshhhhhhso         Hostname: ProBook
       /hhhhhhho: .yh-+hy+hhhy+        Distro: Antergos
      /hhhyo/.   -hhs .hh/.yhhh/       Kernel: 4.1.4-1-ARCH
     /hhhy`    `ohhh.  hhh``hhhh/      Uptime: 2:27
