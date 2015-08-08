@@ -19,7 +19,7 @@ An archey clone for Antergos.
   /hhhhhhhhhho`     -hhhhhhhhhhhh:    Packages: 931
   h+hhhhhhhhhs/:...-yhhhhhhhhhhh+d    CPU: Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz
    soshhhhhhhhhhhhhhhhhhhhhhooy       RAM: 2049 MB / 7830 MB
-       hysssoosssssssooosssyh         Disk: 15G / 191G
+       hysssoosssssssooosssyh         Disk: 15G / 191G
 ```
 ### Thanks
 I would like to thank Archey's original author, [djmelik](https://github.com/djmelik/archey).
