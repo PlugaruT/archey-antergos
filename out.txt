@@ -1,0 +1,19 @@
+[1;31m
+[0;34m                  ssss                  
+[0;34m                yssssssy                
+[0;34m              oshhhhhhhhood             
+[0;34m             yhhhhhhhhhhhhso            
+[0;34m           ohhhhhhhhhhhhhhhh+h          [0;34mUser: [0mplugaru
+[0;34m          yhhhhhhhho/hshhhhhhso         [0;34mHostname: [0mProBook
+[0;34m        /hhhhhhho: .yh-+hy+hhhy+        [0;34mDistro: [0mAntergos
+[0;34m       /hhhyo/.   -hhs .hh/.yhhh/       [0;34mKernel: [0m4.1.4-1-ARCH
+[0;34m      /hhhy`    `ohhh.  hhh``hhhh/      [0;34mUptime: [0m2:27
+[0;34m     /hhhh/   `/hhhh:   yhh/ +hhhh/     [0;34mWindow Manager: [0mNemo
+[0;34m    +yhhhh/ -ohhhhh+    hhhy /hhhhso    [0;34mDesktop Environment: [0mCinnamon
+[0;34m   m/hhhhhhhhhhhhh/    .hhhh`yhhhhh:    [0;34mShell: [0m/bin/zsh
+[0;34m   hohhhhhhhhhhhh:     ohhhhshhhhhh/m   [0;34mTerminal: [0mxterm
+[0;34m    /hhhhhhhhhho`     -hhhhhhhhhhhh:    [0;34mPackages: [0m931
+[0;34m    h+hhhhhhhhhs/:...-yhhhhhhhhhhh+d    [0;34mCPU: [0mIntel(R) Core(TM) i5-4210U CPU @ 1.70GHz
+[0;34m     soshhhhhhhhhhhhhhhhhhhhhhooy       [0;34mRAM: [0m[0;32m2049 MB [0m/ 7830 MB
+[0;34m         hysssoosssssssooosssyh         [0;34mDisk: [0m[0;32m15G [0m/ 191G
+[0m
